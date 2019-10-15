@@ -4,8 +4,8 @@
 
 <img src="images/young1.png" style="width: 500px; height: 350px" />
 
-- About, Experience, Education, Projects, Skills Contact 를 누를시 해당 파트로 이동
-- Resume, Resume(Kor), Cover letter 를 누르면 영문, 한글 이력서, 영문 cover letter 을 확인하고 다운받기 기능
+- About, Experience, Education, Projects, Skills, Contact 를 누를시 해당 파트로 이동
+- Resume, Resume(Kor), Cover letter를 누르면 영문, 한글 이력서, 영문 cover letter 을 확인하고 다운받기 기능
 
 <br />
 
